@@ -1,12 +1,24 @@
 {
-  "name": "replacer",
+  "name": "text-replacer",
   "version": "1.0.0",
   "description": "It is designed to replaced the element from the text to some other text. It is a very simple library for basic usage",
   "main": "index.js",
+  "homepage": "https://github.com/dan89farhan/text-replacer.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dan89farhan/text-replacer.git.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "Farhan M.Baig",
+  "keywords": [
+    "github",
+    "text",
+    "replacer",
+    "text-replacer",
+    "regex",
+    "custom-text"
+  ],
+  "author": "Farhan M.Baig <farhan.pixolo@gmail.com>",
   "license": "ISC"
 }
