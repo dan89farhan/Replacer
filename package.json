@@ -1,6 +1,6 @@
 {
   "name": "text-replacer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "It is designed to replaced the text to some other text. It is a very simple library for basic usage",
   "main": "index.js",
   "homepage": "https://github.com/dan89farhan/text-replacer.git",
