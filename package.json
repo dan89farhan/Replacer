@@ -20,5 +20,8 @@
     "custom-text"
   ],
   "author": "Farhan M.Baig <farhan.pixolo@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "np": "^7.5.0"
+  }
 }
